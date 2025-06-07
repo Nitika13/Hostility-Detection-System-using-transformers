@@ -21,6 +21,7 @@ A multi-label classification system to detect **hostile content** such as `hate`
 - **Format**:
   - `text`: input string
   - `labels`: list of hostile tags (can be multiple per row)
+The Dataset paper can be found here: https://arxiv.org/abs/2011.03588
 
 ---
 
